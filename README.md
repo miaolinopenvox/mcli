@@ -64,6 +64,6 @@ MPL
 Author
 ------
 
-Miao Lin \<lin.miao\_at\_openvox.cn\>
+Miao Lin \<lin.miao\@openvox.cn\>
 
  
